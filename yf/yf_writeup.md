@@ -32,5 +32,9 @@ cd yftmp
 ## Kustomermise
 https://blog.mosuke.tech/entry/2019/06/21/kustomize/
 
+Kustomize sample
+kubectl kustomize github.com/kubernetes-sigs/kustomize.git/examples/helloWorld?ref=v1.0.6
+
+
 
 
