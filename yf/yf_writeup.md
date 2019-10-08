@@ -8,4 +8,8 @@
 https://kubernetes.io/examples/application/wordpress/wordpress-deployment.yaml
 
 
+## Kustomermise
+https://blog.mosuke.tech/entry/2019/06/21/kustomize/
+
+
 
