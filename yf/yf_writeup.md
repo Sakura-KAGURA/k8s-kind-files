@@ -34,6 +34,8 @@ https://blog.mosuke.tech/entry/2019/06/21/kustomize/
 
 - Kustomize sample
 	kubectl kustomize github.com/kubernetes-sigs/kustomize.git/examples/helloWorld?ref=v1.0.6
+	https://github.com/kubernetes-sigs/kustomize
+	https://github.com/kubernetes-sigs/kustomize/tree/master/examples/helloWorld
 
 
 
